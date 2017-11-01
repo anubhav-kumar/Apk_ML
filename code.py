@@ -1,4 +1,4 @@
-## Generic code for Linear Regression
+## Generic code for Linear Regression with two independent variables
 import sys
 import os
 import matplotlib.pyplot as plt
